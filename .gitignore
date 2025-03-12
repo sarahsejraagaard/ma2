@@ -1,3 +1,4 @@
+.env
 
 #data
 .pre-commit-config.yaml
@@ -178,3 +179,5 @@ cython_debug/
 .pypirc
 assignments/cnn_solution.ipynb
 assignments/nn_solution.ipynb
+
+test.hf

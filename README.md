@@ -3,7 +3,7 @@
 ***
 
 ### Group members
-| Student name | Student ID |
+| Sarah Sejr Aagaard | ID = 152058 |
 | --- | --- |
 | #NAME# | #ID# |
 | #NAME# | #ID# |
